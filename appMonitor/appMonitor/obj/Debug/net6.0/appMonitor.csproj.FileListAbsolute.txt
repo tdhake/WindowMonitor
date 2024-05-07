@@ -1,0 +1,11 @@
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appMonitor\appMonitor\bin\Debug\net6.0\appMonitor.deps.json
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appMonitor\appMonitor\bin\Debug\net6.0\appMonitor.dll
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appMonitor\appMonitor\bin\Debug\net6.0\appMonitor.pdb
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appMonitor\appMonitor\obj\Debug\net6.0\appMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appMonitor\appMonitor\obj\Debug\net6.0\appMonitor.AssemblyInfoInputs.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appMonitor\appMonitor\obj\Debug\net6.0\appMonitor.AssemblyInfo.cs
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appMonitor\appMonitor\obj\Debug\net6.0\appMonitor.csproj.CoreCompileInputs.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appMonitor\appMonitor\obj\Debug\net6.0\appMonitor.dll
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appMonitor\appMonitor\obj\Debug\net6.0\refint\appMonitor.dll
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appMonitor\appMonitor\obj\Debug\net6.0\appMonitor.pdb
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appMonitor\appMonitor\obj\Debug\net6.0\ref\appMonitor.dll

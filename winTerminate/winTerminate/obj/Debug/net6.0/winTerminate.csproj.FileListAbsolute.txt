@@ -1,0 +1,4 @@
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\winTerminate\winTerminate\obj\Debug\net6.0\winTerminate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\winTerminate\winTerminate\obj\Debug\net6.0\winTerminate.AssemblyInfoInputs.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\winTerminate\winTerminate\obj\Debug\net6.0\winTerminate.AssemblyInfo.cs
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\winTerminate\winTerminate\obj\Debug\net6.0\winTerminate.csproj.CoreCompileInputs.cache

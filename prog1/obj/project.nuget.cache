@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OdkVGRh0kivHW747DyAR50GA+UgcvewgV7y+7bWB9S9N+vGzWzgJ14XAVQ6iSUm03TOGeJxa8D/Be9hKVxLSPw==",
+  "success": true,
+  "projectFilePath": "c:\\windowchange\\prog1\\prog1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tdhake\\.nuget\\packages\\dllexport\\1.7.4\\dllexport.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}

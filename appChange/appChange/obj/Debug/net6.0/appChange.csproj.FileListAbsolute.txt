@@ -1,0 +1,4 @@
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appChange\appChange\obj\Debug\net6.0\appChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appChange\appChange\obj\Debug\net6.0\appChange.AssemblyInfoInputs.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appChange\appChange\obj\Debug\net6.0\appChange.AssemblyInfo.cs
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\appChange\appChange\obj\Debug\net6.0\appChange.csproj.CoreCompileInputs.cache

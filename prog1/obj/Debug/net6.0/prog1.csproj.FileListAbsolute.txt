@@ -1,0 +1,12 @@
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\prog1\bin\Debug\net6.0\prog1.deps.json
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\prog1\bin\Debug\net6.0\prog1.dll
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\prog1\bin\Debug\net6.0\prog1.pdb
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\prog1\obj\Debug\net6.0\prog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\prog1\obj\Debug\net6.0\prog1.AssemblyInfoInputs.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\prog1\obj\Debug\net6.0\prog1.AssemblyInfo.cs
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\prog1\obj\Debug\net6.0\prog1.csproj.CoreCompileInputs.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\prog1\obj\Debug\net6.0\prog1.dll
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\prog1\obj\Debug\net6.0\refint\prog1.dll
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\prog1\obj\Debug\net6.0\prog1.pdb
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\prog1\obj\Debug\net6.0\ref\prog1.dll
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\prog1\obj\Debug\net6.0\prog1.csproj.AssemblyReference.cache

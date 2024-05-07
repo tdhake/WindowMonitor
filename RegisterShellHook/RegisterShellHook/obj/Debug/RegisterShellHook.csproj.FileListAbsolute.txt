@@ -1,0 +1,5 @@
+c:\users\taresh\documents\visual studio 2015\Projects\RegisterShellHook\RegisterShellHook\obj\Debug\RegisterShellHook.csprojResolveAssemblyReference.cache
+c:\users\taresh\documents\visual studio 2015\Projects\RegisterShellHook\RegisterShellHook\bin\Debug\RegisterShellHook.pdb
+c:\users\taresh\documents\visual studio 2015\Projects\RegisterShellHook\RegisterShellHook\obj\Debug\RegisterShellHook.pdb
+c:\users\taresh\documents\visual studio 2015\Projects\RegisterShellHook\RegisterShellHook\bin\Debug\RegisterShellHook.exe
+c:\users\taresh\documents\visual studio 2015\Projects\RegisterShellHook\RegisterShellHook\obj\Debug\RegisterShellHook.exe

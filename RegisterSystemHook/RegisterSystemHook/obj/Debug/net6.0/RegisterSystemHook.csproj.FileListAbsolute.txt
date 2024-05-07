@@ -1,0 +1,5 @@
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterSystemHook\RegisterSystemHook\obj\Debug\net6.0\RegisterSystemHook.csproj.ResolveComReference.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterSystemHook\RegisterSystemHook\obj\Debug\net6.0\RegisterSystemHook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterSystemHook\RegisterSystemHook\obj\Debug\net6.0\RegisterSystemHook.AssemblyInfoInputs.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterSystemHook\RegisterSystemHook\obj\Debug\net6.0\RegisterSystemHook.AssemblyInfo.cs
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterSystemHook\RegisterSystemHook\obj\Debug\net6.0\RegisterSystemHook.csproj.CoreCompileInputs.cache

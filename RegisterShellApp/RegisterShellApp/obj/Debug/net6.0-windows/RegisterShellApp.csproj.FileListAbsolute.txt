@@ -1,0 +1,14 @@
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\bin\Debug\net6.0-windows\RegisterShellApp.exe
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\bin\Debug\net6.0-windows\RegisterShellApp.deps.json
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\bin\Debug\net6.0-windows\RegisterShellApp.runtimeconfig.json
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\bin\Debug\net6.0-windows\RegisterShellApp.dll
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\bin\Debug\net6.0-windows\RegisterShellApp.pdb
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\net6.0-windows\RegisterShellApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\net6.0-windows\RegisterShellApp.AssemblyInfoInputs.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\net6.0-windows\RegisterShellApp.AssemblyInfo.cs
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\net6.0-windows\RegisterShellApp.csproj.CoreCompileInputs.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\net6.0-windows\RegisterShellApp.dll
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\net6.0-windows\refint\RegisterShellApp.dll
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\net6.0-windows\RegisterShellApp.pdb
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\net6.0-windows\RegisterShellApp.genruntimeconfig.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\net6.0-windows\ref\RegisterShellApp.dll

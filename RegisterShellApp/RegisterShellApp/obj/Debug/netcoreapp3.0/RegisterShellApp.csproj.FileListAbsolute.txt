@@ -1,0 +1,13 @@
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\bin\Debug\netcoreapp3.0\RegisterShellApp.exe
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\bin\Debug\netcoreapp3.0\RegisterShellApp.deps.json
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\bin\Debug\netcoreapp3.0\RegisterShellApp.runtimeconfig.json
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\bin\Debug\netcoreapp3.0\RegisterShellApp.runtimeconfig.dev.json
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\bin\Debug\netcoreapp3.0\RegisterShellApp.dll
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\bin\Debug\netcoreapp3.0\RegisterShellApp.pdb
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\netcoreapp3.0\RegisterShellApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\netcoreapp3.0\RegisterShellApp.AssemblyInfoInputs.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\netcoreapp3.0\RegisterShellApp.AssemblyInfo.cs
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\netcoreapp3.0\RegisterShellApp.csproj.CoreCompileInputs.cache
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\netcoreapp3.0\RegisterShellApp.dll
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\netcoreapp3.0\RegisterShellApp.pdb
+C:\Users\tdhake\Downloads\windowchange(2)\windowchange\RegisterShellApp\RegisterShellApp\obj\Debug\netcoreapp3.0\RegisterShellApp.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+{
+  "name": "windowchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "active-win": "^8.1.1",
+    "edge-js": "^21.7.4",
+    "events": "^3.3.0",
+    "ffi-napi": "^4.0.3",
+    "ref-napi": "^3.0.3",
+    "ref-struct-di": "^1.1.1",
+    "ref-struct-napi": "^1.1.1",
+    "ref-wchar-napi": "^1.0.3"
+  }
+}
